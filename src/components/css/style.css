@@ -1,0 +1,25 @@
+.navbar .navbar-brand {
+    margin-left: 15px;
+}
+
+.btn {
+    margin: 15px;
+}
+
+.f1 {
+    text-align: left;
+    align-content: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.head {
+    background-color: rgba(169, 169, 169, 0.486);
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.body {
+    background-image: url('D:/programming/React/react-fundamentals/task_manager/src/components/css/klipartz.com.png');
+}
